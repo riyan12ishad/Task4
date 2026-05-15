@@ -5,9 +5,8 @@
 }
 @font-face {
     font-family: "myFont";
-    src: url("./the-prestige-signature-font/Theprestigesignature-ywwaM.otf");
+    src: url("./the-prestige-signature-font/Theprestigesignature-ywwaM.woff") format("woff");
 }
-
 html,
 body {
     height: 100%;
